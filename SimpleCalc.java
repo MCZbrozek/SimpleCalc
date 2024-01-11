@@ -8,7 +8,7 @@ public class SimpleCalc {
 
     public static void main(String[] args) {
         int num1 = 14;
-        int num2 = 104;
+        int num2 = 121;
 
         int result = num1 + num2;
 
